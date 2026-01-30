@@ -6,6 +6,6 @@
 4. A seguir conectar o PCLSIM (CLP virtual) com o factory/IO
 5.  Testar 😊
 
-**Linguagens:**
-- [x] Ladder
-- [ ] Grafcet
+**Linguagem:**
+- [x] Grafcet
+
